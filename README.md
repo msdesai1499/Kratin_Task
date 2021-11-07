@@ -7,7 +7,7 @@ So this site mainly focuses in two usecases
 2) Providing Platform to add Banks and Withdraw cash - Here user can add bank with appropriate bank details and then view balance , also if user aims to withdraw cash he can do it accordingly where he requires to enter amount to be withdrawn and the bank bank employee will deliver entered cash at his place.
 
 
-Here I have attached Scrrenshots of website
+Here I have attached Screenshots of website
 
 
 Home Page
